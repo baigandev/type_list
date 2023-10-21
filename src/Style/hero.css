@@ -1,0 +1,29 @@
+.hero{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+}
+.hero-title{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 90%;
+}
+.input{
+    margin: 0 20px;
+    width: 322px;
+    background: #E4E9F2;
+    height: 40px;
+    font-size: 15px;
+    font-weight: 400;
+    border-radius: 5px;
+    outline: none;
+}
+.add-user{
+    width: 135px;
+    height: 40px;
+    background: #3366FF;
+    color: white;
+    border-radius: 5px;
+}

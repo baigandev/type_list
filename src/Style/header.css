@@ -1,0 +1,32 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 50px 0;
+}
+.h1{
+    color: #8F9BB3;
+    font-weight: 800;
+    font-size: 27px;
+    font-style: italic;
+}
+.p{
+    color: #222B45;
+    font-size: 15px;
+    font-weight: 600;
+    text-decoration: underline;
+}
+.select{
+    font-size: 14px;
+    color: #222B45;
+    font-weight: 700;
+    width: 164px;
+    height: 34px;
+    border-radius: 10px;
+    color: #222B45;
+}
+.text{
+    font-weight: 400;
+    color: #8F9BB3;
+    font-size: 14px;
+}

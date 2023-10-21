@@ -1,0 +1,10 @@
+.add{
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    flex-direction: column;
+}
+.test{
+    margin: 20px 0;
+    font-size: 32px;
+}
